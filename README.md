@@ -30,7 +30,7 @@ public class Java
 ```
 
 ## Referencias
-- [Github](github.com)
+- [Github](https://github.com)
 - Terminal de Linux
 
 ![Imagen](./hero.png)
